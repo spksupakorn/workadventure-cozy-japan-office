@@ -2,6 +2,7 @@
 
 - วันที่: 2026-10-08
 - สถานะ: อนุมัติแล้ว (แก้ไขครั้งที่ 2 หลังตรวจ map-starter-kit 3.3.18)
+- แทนที่บางส่วนโดย: `docs/superpowers/specs/2026-10-14-cozy-office-visual-redesign-design.md` (ภาพ ผังห้อง และการสร้างผนังกับพื้น)
 - ปลายทาง: WorkAdventure self-hosted ที่ `https://wa.alternatepro.com` (map-storage)
 
 ## 1. เป้าหมาย
